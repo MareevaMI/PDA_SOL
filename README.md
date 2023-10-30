@@ -6,5 +6,6 @@
 
 Практическая работа 1
 - [Exercise1](https://github.com/MareevaMI/PDA_SOL/blob/main/Exercise1.ipynb).
+
 Практическая работа 2
 - [Exercise1]().
