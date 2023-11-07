@@ -6,6 +6,7 @@
 
 Самостоятельная работа 2
 - [Numpy](https://github.com/MareevaMI/PDA_SOL/blob/main/Numpy(Мареева_М_И_).ipynb)
+  
 Практическая работа 1
 - [Ссылка](https://github.com/MareevaMI/PDA_SOL/blob/main/Exercise1.ipynb).
 
