@@ -10,6 +10,9 @@
 Самостоятельная работа 3
 - [Работа с библиотекой Pandas](https://github.com/MareevaMI/PDA_SOL/blob/main/hw_3_pandas(Мареева_М_И_).ipynb)
 
+Самостоятельная работа 4
+- [Работа с библиотеками Matplotlib и Seaborn](https://github.com/MareevaMI/PDA_SOL/blob/main/hw_4_visualisation.ipynb)
+
 Практическая работа 1
 - [Ссылка](https://github.com/MareevaMI/PDA_SOL/blob/main/Exercise1.ipynb).
 
