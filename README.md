@@ -17,7 +17,7 @@
 - [Ссылка](https://github.com/MareevaMI/PDA_SOL/blob/main/Exercise1.ipynb).
 
 Практическая работа 2
-- [Ссылка]().
+- [Ссылка](https://github.com/MareevaMI/PDA_SOL/blob/main/Практика2(МарееваМ_И).ipynb).
 
 Практическая работа 3
 - [Ссылка 1](https://github.com/MareevaMI/PDA_SOL/blob/main/Scipy_algebra(Мареева_М_И_).ipynb)
