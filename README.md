@@ -16,6 +16,9 @@
 Самостоятельная работа 5
 - [Статистика с библиотекой Scipy](https://github.com/MareevaMI/PDA_SOL/blob/main/Практическая_5_(Мареева_М_И_).ipynb)
 
+Самостоятельная работа 6
+-[Линейная алгебра с библиотекой Numpy](https://github.com/MareevaMI/PDA_SOL/blob/main/Самостоятельная_6_(Мареева_М_И_).ipynb)
+
 Практическая работа 1
 - [Ссылка](https://github.com/MareevaMI/PDA_SOL/blob/main/Exercise1.ipynb).
 
