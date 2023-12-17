@@ -13,6 +13,9 @@
 Самостоятельная работа 4
 - [Работа с библиотеками Matplotlib и Seaborn](https://github.com/MareevaMI/PDA_SOL/blob/main/hw_4_visualisation.ipynb)
 
+Самостоятельная работа 5
+- [Статистика с библиотекой Scipy](https://github.com/MareevaMI/PDA_SOL/blob/main/Практическая_5_(Мареева_М_И_).ipynb)
+
 Практическая работа 1
 - [Ссылка](https://github.com/MareevaMI/PDA_SOL/blob/main/Exercise1.ipynb).
 
