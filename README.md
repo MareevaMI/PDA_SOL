@@ -21,4 +21,4 @@
 - [Практическая работа 3. Ссылка 2](https://github.com/MareevaMI/PDA_SOL/blob/main/01_Symbolic_mathematics(Мареева_М_И_).ipynb)
 - [Практическая работа 3. Ссылка 3](https://github.com/MareevaMI/PDA_SOL/blob/main/02_Linear_algebra(Мареева_М_И_).ipynb)
 # Инструменты для хранения и анализа больших данных
-- [Практическая работа 1. Работа с большими данными в DASK]()
+- [Практическая работа 1. Работа с большими данными в DASK](https://github.com/MareevaMI/PDA_SOL/blob/main/ПР_1_Работа_с_большими_данными(Мареева).ipynb)
