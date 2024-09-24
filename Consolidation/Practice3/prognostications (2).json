@@ -1,0 +1,402 @@
+[
+    {
+        "company_id": "P000",
+        "prognost": 481.16
+    },
+    {
+        "company_id": "P001",
+        "prognost": 879.04
+    },
+    {
+        "company_id": "P002",
+        "prognost": -967.82
+    },
+    {
+        "company_id": "P003",
+        "prognost": 945.98
+    },
+    {
+        "company_id": "P004",
+        "prognost": -337.15
+    },
+    {
+        "company_id": "P005",
+        "prognost": 575.97
+    },
+    {
+        "company_id": "P006",
+        "prognost": 308.21
+    },
+    {
+        "company_id": "P007",
+        "prognost": -451.54
+    },
+    {
+        "company_id": "P008",
+        "prognost": -84.64
+    },
+    {
+        "company_id": "P009",
+        "prognost": 128.2
+    },
+    {
+        "company_id": "P010",
+        "prognost": -489.18
+    },
+    {
+        "company_id": "P011",
+        "prognost": 938.64
+    },
+    {
+        "company_id": "P012",
+        "prognost": 385.34
+    },
+    {
+        "company_id": "P013",
+        "prognost": -337.71
+    },
+    {
+        "company_id": "P014",
+        "prognost": -70.35
+    },
+    {
+        "company_id": "P015",
+        "prognost": 865.5
+    },
+    {
+        "company_id": "P016",
+        "prognost": -644.67
+    },
+    {
+        "company_id": "P017",
+        "prognost": -811.37
+    },
+    {
+        "company_id": "P018",
+        "prognost": 597.47
+    },
+    {
+        "company_id": "P019",
+        "prognost": 381.49
+    },
+    {
+        "company_id": "P020",
+        "prognost": -279.55
+    },
+    {
+        "company_id": "P021",
+        "prognost": -491.8
+    },
+    {
+        "company_id": "P022",
+        "prognost": 298.33
+    },
+    {
+        "company_id": "P023",
+        "prognost": -284.65
+    },
+    {
+        "company_id": "P024",
+        "prognost": -418.59
+    },
+    {
+        "company_id": "P025",
+        "prognost": -530.23
+    },
+    {
+        "company_id": "P026",
+        "prognost": -12.86
+    },
+    {
+        "company_id": "P027",
+        "prognost": 546.84
+    },
+    {
+        "company_id": "P028",
+        "prognost": 296.83
+    },
+    {
+        "company_id": "P029",
+        "prognost": 470.08
+    },
+    {
+        "company_id": "P030",
+        "prognost": 619.84
+    },
+    {
+        "company_id": "P031",
+        "prognost": -361.99
+    },
+    {
+        "company_id": "P032",
+        "prognost": 909.38
+    },
+    {
+        "company_id": "P033",
+        "prognost": -688.96
+    },
+    {
+        "company_id": "P034",
+        "prognost": -68.66
+    },
+    {
+        "company_id": "P035",
+        "prognost": -893.62
+    },
+    {
+        "company_id": "P036",
+        "prognost": 961.29
+    },
+    {
+        "company_id": "P037",
+        "prognost": -154.13
+    },
+    {
+        "company_id": "P038",
+        "prognost": 470.92
+    },
+    {
+        "company_id": "P039",
+        "prognost": 698.82
+    },
+    {
+        "company_id": "P040",
+        "prognost": 164.44
+    },
+    {
+        "company_id": "P041",
+        "prognost": -898.69
+    },
+    {
+        "company_id": "P042",
+        "prognost": 243.07
+    },
+    {
+        "company_id": "P043",
+        "prognost": 19.62
+    },
+    {
+        "company_id": "P044",
+        "prognost": 269.74
+    },
+    {
+        "company_id": "P045",
+        "prognost": -757.58
+    },
+    {
+        "company_id": "P046",
+        "prognost": -890.76
+    },
+    {
+        "company_id": "P047",
+        "prognost": 320.09
+    },
+    {
+        "company_id": "P048",
+        "prognost": 959.99
+    },
+    {
+        "company_id": "P049",
+        "prognost": -449.6
+    },
+    {
+        "company_id": "P050",
+        "prognost": 894.18
+    },
+    {
+        "company_id": "P051",
+        "prognost": -460.19
+    },
+    {
+        "company_id": "P052",
+        "prognost": -978.65
+    },
+    {
+        "company_id": "P053",
+        "prognost": 136.68
+    },
+    {
+        "company_id": "P054",
+        "prognost": -277.8
+    },
+    {
+        "company_id": "P055",
+        "prognost": 959.32
+    },
+    {
+        "company_id": "P056",
+        "prognost": 505.69
+    },
+    {
+        "company_id": "P057",
+        "prognost": -863.25
+    },
+    {
+        "company_id": "P058",
+        "prognost": 414.99
+    },
+    {
+        "company_id": "P059",
+        "prognost": -696.11
+    },
+    {
+        "company_id": "P060",
+        "prognost": -195.03
+    },
+    {
+        "company_id": "P061",
+        "prognost": -958.73
+    },
+    {
+        "company_id": "P062",
+        "prognost": -454.59
+    },
+    {
+        "company_id": "P063",
+        "prognost": 803.72
+    },
+    {
+        "company_id": "P064",
+        "prognost": -403.95
+    },
+    {
+        "company_id": "P065",
+        "prognost": -353.27
+    },
+    {
+        "company_id": "P066",
+        "prognost": -421.2
+    },
+    {
+        "company_id": "P067",
+        "prognost": 744.95
+    },
+    {
+        "company_id": "P068",
+        "prognost": 586.4
+    },
+    {
+        "company_id": "P069",
+        "prognost": 57.2
+    },
+    {
+        "company_id": "P070",
+        "prognost": -919.39
+    },
+    {
+        "company_id": "P071",
+        "prognost": 724.28
+    },
+    {
+        "company_id": "P072",
+        "prognost": 137.4
+    },
+    {
+        "company_id": "P073",
+        "prognost": 902.78
+    },
+    {
+        "company_id": "P074",
+        "prognost": 598.92
+    },
+    {
+        "company_id": "P075",
+        "prognost": 841.91
+    },
+    {
+        "company_id": "P076",
+        "prognost": 908.3
+    },
+    {
+        "company_id": "P077",
+        "prognost": 495.05
+    },
+    {
+        "company_id": "P078",
+        "prognost": 41.42
+    },
+    {
+        "company_id": "P079",
+        "prognost": 428.06
+    },
+    {
+        "company_id": "P080",
+        "prognost": -596.08
+    },
+    {
+        "company_id": "P081",
+        "prognost": -725.4
+    },
+    {
+        "company_id": "P082",
+        "prognost": 220.01
+    },
+    {
+        "company_id": "P083",
+        "prognost": 319.86
+    },
+    {
+        "company_id": "P084",
+        "prognost": -804.17
+    },
+    {
+        "company_id": "P085",
+        "prognost": 791.51
+    },
+    {
+        "company_id": "P086",
+        "prognost": 694.58
+    },
+    {
+        "company_id": "P087",
+        "prognost": 268.24
+    },
+    {
+        "company_id": "P088",
+        "prognost": 150.25
+    },
+    {
+        "company_id": "P089",
+        "prognost": 288.02
+    },
+    {
+        "company_id": "P090",
+        "prognost": 677.28
+    },
+    {
+        "company_id": "P091",
+        "prognost": 634.01
+    },
+    {
+        "company_id": "P092",
+        "prognost": 939.21
+    },
+    {
+        "company_id": "P093",
+        "prognost": -643.17
+    },
+    {
+        "company_id": "P094",
+        "prognost": -769.3
+    },
+    {
+        "company_id": "P095",
+        "prognost": 932.86
+    },
+    {
+        "company_id": "P096",
+        "prognost": 791.13
+    },
+    {
+        "company_id": "P097",
+        "prognost": -593.95
+    },
+    {
+        "company_id": "P098",
+        "prognost": 828.62
+    },
+    {
+        "company_id": "P099",
+        "prognost": 475.65
+    }
+]
